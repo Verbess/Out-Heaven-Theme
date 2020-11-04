@@ -28,7 +28,12 @@
             {
                 "label": "Out Heaven Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Out-Heaven-Theme-color-theme.json"
+                "path": "./themes/Out-Heaven-Theme-Color-Theme.json"
+            },
+            {
+                "label": "Out Heaven Theme - Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Out-Heaven-Theme-Color-Theme-Italic.json"
             }
         ]
     },
