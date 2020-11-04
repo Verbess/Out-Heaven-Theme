@@ -1,0 +1,21 @@
+{
+    "name": "out-heaven-theme",
+    "displayName": "Out Heaven Theme",
+    "description": "Out Heaven Theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Out Heaven Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Out-Heaven-Theme-color-theme.json"
+            }
+        ]
+    }
+}
