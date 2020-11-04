@@ -7,10 +7,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
-v1.0.0
+[1.0.0] - 2020-11-05
+### Added
     - First version with Editor Color Theme and Syntax Highlight
-v1.0.1
+
+[1.0.1] - 2020-11-05
+### Changed
     - Reduce package size
-v1.0.2
+
+[1.0.2] - 2020-11-05
+### Changed
     - Reduce package size
-    - Fix the problem that the version number is too low
+
+[1.0.3] - 2020-11-05
+### Added
+    - Italic version Support!
+
+### Changed
+    - Reduce package size
