@@ -1,22 +1,27 @@
 {
     "name": "out-heaven-theme",
     "displayName": "Out Heaven Theme",
-    "description": "Out Heaven Theme for Visual Studio Code.",
+    "description": "A coloring code theme for Visual Studio Code to making you more comfortable programming.",
     "version": "1.0.0",
     "publisher": "Verbess",
-    "license": "",
+    "author": {
+        "name": "Verbess"
+    },
+    "icon": "images/MEME.jpg",
+    "license": "BSD 3-Clause License",
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "keywords": [
-        "VSCode",
-        "Theme",
-        "Dark",
+        "vscode",
+        "theme",
+        "dark",
         "C#",
-        "Unity"
+        "unity"
     ],
     "contributes": {
         "themes": [
@@ -26,5 +31,9 @@
                 "path": "./themes/Out-Heaven-Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Verbess/Out-Heaven-Theme.git"
     }
 }
