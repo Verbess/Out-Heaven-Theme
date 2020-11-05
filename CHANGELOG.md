@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "out-heaven-theme" extension will be documented in this file.
+All notable changes to the "outer-heaven-theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
@@ -25,3 +25,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
     - Reduce package size
+
+[1.0.4] - 2020-11-05
+### Fixed
+    - fix some bugs
+  
+### Changed
+    - change Package name from Out Heaven Theme to Outer Heaven Theme
