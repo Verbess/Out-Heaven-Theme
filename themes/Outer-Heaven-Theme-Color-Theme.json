@@ -480,7 +480,7 @@
     "semanticHighlighting": true,
     "tokenColors": [
         {
-            "name": "Comment color",
+            "name": "Comment Color",
             "scope": [
                 "comment",
                 "markup.quote.markdown",
@@ -501,15 +501,16 @@
                 "punctuation.definition.string.begin.markdown"
             ],
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#4DB6AC"
             }
         },
         {
-            "name": "Cyan",
+            "name": "Variable Color",
             "scope": [
                 "variable",
                 "support.variable",
                 "entity.name.tag.yaml",
+                "entity.name.variable",
                 "constant.character.entity.html",
                 "source.css entity.name.tag.reference",
                 "beginning.punctuation.definition.list.markdown",
@@ -517,11 +518,11 @@
                 "meta.structure.dictionary.json support.type.property-name"
             ],
             "settings": {
-                "foreground": "#00e8c6"
+                "foreground": "#26A69A"
             }
         },
         {
-            "name": "Orange",
+            "name": "Numeric Color",
             "scope": [
                 "markup.bold",
                 "constant.numeric",
@@ -539,11 +540,11 @@
                 "variable.other.object.js"
             ],
             "settings": {
-                "foreground": "#f39c12"
+                "foreground": "#FF7043"
             }
         },
         {
-            "name": "Yellow",
+            "name": "Type Color",
             "scope": [
                 "markup.list",
                 "text.xml string",
@@ -551,7 +552,6 @@
                 "support.function",
                 "entity.other.attribute-name",
                 "meta.at-rule.extend",
-                "entity.name.function",
                 "entity.other.inherited-class",
                 "entity.other.keyframe-offset.css",
                 "text.html.markdown string.quoted",
@@ -562,22 +562,31 @@
                 "text.xml punctuation.definition.string"
             ],
             "settings": {
-                "foreground": "#FFE66D"
+                "foreground": "#D4E157"
             }
         },
         {
-            "name": "Pink",
+            "name": "Method Color",
+            "scope": [
+                "entity.name.function",
+            ],
+            "settings": {
+                "foreground": "#90CAF9",
+            }
+        },
+        {
+            "name": "Heading Color",
             "scope": [
                 "markup.heading",
                 "variable.language.this.js",
                 "variable.language.special.self.python"
             ],
             "settings": {
-                "foreground": "#ff00aa"
+                "foreground": "#8C9EFF"
             }
         },
         {
-            "name": "Hot Pink",
+            "name": "Punctuation Color",
             "scope": [
                 "punctuation.definition.interpolation",
                 "punctuation.section.embedded.end.php",
@@ -592,7 +601,7 @@
             }
         },
         {
-            "name": "Purple",
+            "name": "Keyword Color",
             "scope": [
                 "storage",
                 "keyword",
@@ -602,11 +611,11 @@
                 "source.js support.type"
             ],
             "settings": {
-                "foreground": "#81D4FA"
+                "foreground": "#8C9EFF"
             }
         },
         {
-            "name": "Blue",
+            "name": "Regexp Color",
             "scope": [
                 "string.regexp",
                 "markup.changed"
@@ -616,12 +625,18 @@
             }
         },
         {
-            "name": "Red",
+            "name": "Operator Color",
             "scope": [
                 "constant",
                 "support.class",
                 "keyword.operator",
                 "support.constant",
+                "punctuation.accessor",
+                "punctuation.separator.colon",
+                "punctuation.separator.comma",
+                "punctuation.terminator.statement",
+                "punctuation.definition.typeparameters.begin",
+                "punctuation.definition.typeparameters.end",
                 "text.html.markdown string",
                 "source.css support.function",
                 "source.php support.function",
@@ -630,11 +645,11 @@
                 "markup.deleted"
             ],
             "settings": {
-                "foreground": "#F06292"
+                "foreground": "#FFCA28"
             }
         },
         {
-            "name": "Green",
+            "name": "String Color",
             "scope": [
                 "string",
                 "text.html.php string",
@@ -649,7 +664,7 @@
                 "text.html string"
             ],
             "settings": {
-                "foreground": "#81C784"
+                "foreground": "#4CAF50"
             }
         },
         {
