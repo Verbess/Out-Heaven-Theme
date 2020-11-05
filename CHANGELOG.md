@@ -42,3 +42,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
     - README
 
 [1.0.6] - 2020-11-05
+
+[1.0.7] - 2020-11-06
+### Changed
+    - Reduce some colors' brightness and contrast
+    - Subdivide syntax
+
+### Fixed
+    - README sheet style error
