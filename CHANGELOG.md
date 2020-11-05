@@ -32,3 +32,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   
 ### Changed
     - change Package name from Out Heaven Theme to Outer Heaven Theme
+
+[1.0.5] - 2020-11-05
+### Added
+    - homepage
+    - bugs report
+
+### Changed
+    - README
+
+[1.0.6] - 2020-11-05
