@@ -2,13 +2,12 @@
     "name": "outer-heaven-theme",
     "displayName": "Outer Heaven Theme",
     "description": "A coloring code theme for Visual Studio Code to making you more comfortable programming.",
+    "icon": "images/MEME.jpg",
     "version": "1.0.4",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
     },
-    "icon": "images/MEME.jpg",
-    "license": "BSD 3-Clause License",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -37,8 +36,14 @@
             }
         ]
     },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Verbess/Outer-Heaven-Theme/blob/master/README.md",
     "repository": {
         "type": "git",
         "url": "https://github.com/Verbess/Outer-Heaven-Theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Verbess/Outer-Heaven-Theme/issues",
+        "email": "verbess@foxmail.com"
     }
 }
