@@ -1,8 +1,8 @@
 {
-    "name": "out-heaven-theme",
-    "displayName": "Out Heaven Theme",
+    "name": "outer-heaven-theme",
+    "displayName": "Outer Heaven Theme",
     "description": "A coloring code theme for Visual Studio Code to making you more comfortable programming.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
@@ -26,19 +26,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Out Heaven Theme",
+                "label": "Outer Heaven Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Out-Heaven-Theme-Color-Theme.json"
+                "path": "./themes/Outer-Heaven-Theme-Color-Theme.json"
             },
             {
-                "label": "Out Heaven Theme - Italic",
+                "label": "Outer Heaven Theme - Italic",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Out-Heaven-Theme-Color-Theme-Italic.json"
+                "path": "./themes/Outer-Heaven-Theme-Color-Theme-Italic.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Verbess/Out-Heaven-Theme.git"
+        "url": "https://github.com/Verbess/Outer-Heaven-Theme.git"
     }
 }
