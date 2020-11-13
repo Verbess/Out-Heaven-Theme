@@ -1,7 +1,7 @@
 # Outer Heaven Theme
 <p align="center"><img width="400px" src="images/MEME.jpg"></p>
 
-[简体中文](documents/zh-cn.md) | [English](./README.md)
+[简体中文](./documents/README_ZH_CN.md) | [English](./README.md)
 
 ## Getting started
 ### How to install

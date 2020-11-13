@@ -30,7 +30,7 @@
         "checkbox.foreground": "#EEFFFF",
         "checkbox.border": "#EEFFFF10",
         "dropdown.background": "#263238",
-        "dropdown.listBackground": "#00000030",
+        "dropdown.listBackground": "#263238",
         "dropdown.border": "#EEFFFF10",
         "dropdown.foreground": "#EEFFFF",
         "input.background": "#303C41",

@@ -50,3 +50,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Fixed
     - README sheet style error
+
+[1.1.0] - 2020-11-14
+### Fixed
+    - fix the background color of drop-down boxes in the Settings Page
