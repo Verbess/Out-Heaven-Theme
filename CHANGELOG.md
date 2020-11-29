@@ -31,12 +31,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
     - fix some bugs
   
 ### Changed
-    - change Package name from Out Heaven Theme to Outer Heaven Theme
+    - Change Package name from Out Heaven Theme to Outer Heaven Theme
 
 [1.0.5] - 2020-11-05
 ### Added
-    - homepage
-    - bugs report
+    - Homepage
+    - Bugs report
 
 ### Changed
     - README
@@ -53,4 +53,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 [1.1.0] - 2020-11-14
 ### Fixed
-    - fix the background color of drop-down boxes in the Settings Page
+    - Fix the background color of drop-down boxes in the Settings Page
+
+[2.0.0] - 2020-11-30
+### Added
+    - Add a new theme
+
+### Fixed
+    - Fix find range high light background color

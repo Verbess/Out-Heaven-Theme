@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "author": "Verbess",
-    "name": "Outer Heaven Color Theme",
+    "name": "Outer-Heaven-Classic-Italic",
     "type": "dark",
     "colors": {
         "focusBorder": "#EEFFFF00",
@@ -156,7 +156,7 @@
         "editor.wordHighlightStrongBorder": "#448AFF",
         "editor.findMatchBackground": "#00968860",
         "editor.findMatchHighlightBackground": "#4DB6AC80",
-        "editor.findRangeHighlightBackground": "#4DB6AC80",
+        "editor.findRangeHighlightBackground": "#4db6ac20",
         "editor.findMatchBorder": "#00968800",
         "editor.findMatchHighlightBorder": "#4DB6AC00",
         // "editor.findRangeHighlightBorder": "",
@@ -488,7 +488,8 @@
                 "meta.diff.header"
             ],
             "settings": {
-                "foreground": "#607D8B"
+                "foreground": "#607D8B",
+                "fontStyle": "italic"
             }
         },
         {
