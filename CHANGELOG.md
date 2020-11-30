@@ -60,7 +60,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 - Fix find range high light background color
 
-[2.0.1] - 2020-11-30
+[2.0.1] - 2020-12-1
 ### Changed
 - Reduce green color usage of Outer-Heaven-Colorful
 - Change Icon
+
+[2.0.2] - 2020-12-1
+### Fixed
+- Fix README.md's layout
