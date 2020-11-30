@@ -1,5 +1,5 @@
 # Outer Heaven Theme
-<p align="center"><img width="200px" src="../images/MEME.jpg"></p>
+<p align="center"><img width="200px" src="../images/icon.png"></p>
 
 [简体中文](./documents/README_ZH_CN.md) | [English](../README.md)
 
