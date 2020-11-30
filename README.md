@@ -41,3 +41,9 @@
 3. Choose `Preferences: Color Theme`
 4. Select `Outer Heaven Theme` from the list
 5. And then, **Enjoy!**
+
+## License
+- [MIT](./LICENSE)
+## Credits
+- [vijay verma](https://vijayverma.co/?ref=illlustrations) For Free Icon
+- [Material UI](https://www.materialui.co/colors) For Color Suggestion
