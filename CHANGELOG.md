@@ -68,3 +68,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 [2.0.2] - 2020-12-1
 ### Fixed
 - Fix README.md's layout
+
+[2.0.3] - 2020-12-1
+### Added
+- Add Italic version of Outer Heaven Theme Colorful
+
+### Fixed
+- Fix comments' color

@@ -1630,7 +1630,7 @@
                 "regions.using entity.name.type.type-parameter"
             ],
             "settings": {
-                "foreground": "#009688"
+                "foreground": "#619600"
             }
         },
         {
@@ -1846,7 +1846,8 @@
                 "comment string"
             ],
             "settings": {
-                "foreground": "#607D8B"
+                "foreground": "#607D8B",
+                "fontStyle": "italic"
             }
         },
         {
