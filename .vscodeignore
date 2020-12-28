@@ -1,4 +1,11 @@
+# folder
 .vscode/**
 .vscode-test/**
-.gitignore
+themes-tester/**
+
+# files
 vsc-extension-quickstart.md
+
+# git ignore files
+.gitignore
+.gitattributes
