@@ -509,6 +509,7 @@
                 "comment.line",
                 "comment.block",
                 "comment.block.documentation",
+                "punctuation.definition.comment"
             ],
             "settings": {
                 "foreground": "#6d6875",
@@ -519,6 +520,7 @@
         {
             "name": "Keywords",
             "scope": [
+                "constant.character",
                 "keyword.control",
                 "keyword.operator",
                 "keyword.other",
@@ -526,9 +528,8 @@
                 "meta.return-type",
                 "storage.modifier",
                 "variable.language",
-                "punctuation.curlybrace",
-                "punctuation.accessor",
-                "punctuation.separator"
+                "entity.name.variable.preprocessor",
+                "keyword.preprocessor"
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -540,7 +541,6 @@
             "scope": [
                 "constant.language",
                 "constant.numeric",
-                "constant.character",
                 "constant.regexp",
                 "constant.rgb-value",
                 "constant.other",
@@ -563,9 +563,7 @@
                 "storage.type",
                 "support.class",
                 "support.type",
-                "support.type.property-name",
-                "punctuation.definition.typeparameters",
-                "punctuation.squarebracket",
+                "support.type.property-name"
             ],
             "settings": {
                 "foreground": "#E5C07B"
@@ -579,12 +577,12 @@
                 "entity.name.variable.field",
                 "entity.name.variable.parameter",
                 "entity.name.variable.property",
+                "entity.name.variable.enum-member",
                 "support.variable",
                 "variable.name",
                 "variable.other",
                 "variable.other.readwrite",
                 "variable.parameter",
-                "punctuation.terminator.statement"
             ],
             "settings": {
                 "foreground": "#E06C75"
@@ -598,8 +596,7 @@
                 "entity.name.method",
                 "meta.function",
                 "meta.function-call",
-                "support.function",
-                "punctuation.parenthesis",
+                "support.function"
             ],
             "settings": {
                 "foreground": "#61AFEF"
@@ -617,6 +614,44 @@
             ],
             "settings": {
                 "foreground": "#98C379"
+            }
+        },
+        // Punctuation
+        {
+            "name": "Punctuation",
+            "scope": [
+                "punctuation"
+            ],
+            "settings": {
+                "foreground": "#C678DD"
+            }
+        },
+        {
+            "name": "Parenthesis",
+            "scope": [
+                "punctuation.parenthesis"
+            ],
+            "settings": {
+                "foreground": "#61AFEF"
+            }
+        },
+        {
+            "name": "Squarebracket & Definition",
+            "scope": [
+                "punctuation.squarebracket",
+                "punctuation.definition"
+            ],
+            "settings": {
+                "foreground": "#E5C07B"
+            }
+        },
+        {
+            "name": "Terminator",
+            "scope": [
+                "punctuation.terminator"
+            ],
+            "settings": {
+                "foreground": "#E06C75"
             }
         },
         // Markdown

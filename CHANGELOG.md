@@ -82,3 +82,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Removed
 - Removed old Outer-Heaven-Classic Theme and Italic version of it.
+
+[2.1.1] - 2020-12-29
+### Fixed
+- Fixed enum variables color exception
+- Fixed preprocessor color
+- Fixed punctuation definition color
