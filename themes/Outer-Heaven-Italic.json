@@ -524,12 +524,12 @@
                 "keyword.control",
                 "keyword.operator",
                 "keyword.other",
+                "keyword.preprocessor",
                 "meta.preprocessor",
                 "meta.return-type",
                 "storage.modifier",
                 "variable.language",
-                "entity.name.variable.preprocessor",
-                "keyword.preprocessor"
+                "entity.name.variable.preprocessor"
             ],
             "settings": {
                 "foreground": "#C678DD"
@@ -539,6 +539,7 @@
         {
             "name": "Constants",
             "scope": [
+                "constant.character.escape",
                 "constant.language",
                 "constant.numeric",
                 "constant.regexp",
