@@ -3,7 +3,7 @@
     "displayName": "Outer Heaven Theme",
     "description": "A coloring code theme for Visual Studio Code to making you more comfortable programming.",
     "icon": "images/icon.png",
-    "version": "2.0.3",
+    "version": "2.1.0",
     "publisher": "Verbess",
     "author": {
         "name": "Verbess"
@@ -25,6 +25,18 @@
     "contributes": {
         "themes": [
             {
+                "id": "Outer-Heaven",
+                "label": "Outer-Heaven",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Outer-Heaven.json"
+            },
+            {
+                "id": "Outer-Heaven-Italic",
+                "label": "Outer-Heaven-Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Outer-Heaven-Italic.json"
+            },
+            {
                 "id": "Outer-Heaven-Colorful",
                 "label": "Outer-Heaven-Colorful",
                 "uiTheme": "vs-dark",
@@ -35,18 +47,6 @@
                 "label": "Outer-Heaven-Colorful-Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Outer-Heaven-Colorful-Italic.json"
-            },
-            {
-                "id": "Outer-Heaven-Classic",
-                "label": "Outer-Heaven-Classic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Outer-Heaven-Classic.json"
-            },
-            {
-                "id": "Outer-Heaven-Classic-Italic",
-                "label": "Outer-Heaven-Classic-Italic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Outer-Heaven-Classic-Italic.json"
             }
         ]
     },

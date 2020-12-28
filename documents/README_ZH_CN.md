@@ -1,9 +1,13 @@
 # Outer Heaven Theme
 <p align="center"><img width="200px" src="../images/icon.png"></p>
 
+***
+
 [简体中文](./documents/README_ZH_CN.md) | [English](../README.md)
 
 ## 开始使用
+<p align="center"><img width="600px" src="../images/CSharp.png"></p>
+
 ### 如何安装
 **您可以通过一下 3 种方式来安装该插件：**
 1. 从 Marketplace 网站安装

@@ -1,9 +1,13 @@
 # Outer Heaven Theme
 <p align="center"><img width="200px" src="images/icon.png"></p>
 
+***
+
 [简体中文](./documents/README_ZH_CN.md) | [English](./README.md)
 
 ## Getting started
+<p align="center"><img width="600px" src="images/CSharp.png"></p>
+
 ### How to install
 **There are 3 ways to install this extension:**
 1. Install from Marketplace Website

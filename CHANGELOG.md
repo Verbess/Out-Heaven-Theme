@@ -75,3 +75,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Fixed
 - Fix comments' color
+
+[2.1.0] - 2020-12-29
+### Added
+- Add new Outer-Heaven.json
+- Add new Outer-Heaven-Italic.json
+
+### Removed
+- Remove Outer-Heaven-Classic.json
+- Remove Outer-Heaven-Classic-Italic.json
