@@ -85,6 +85,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 [2.1.1] - 2020-12-29
 ### Fixed
-- Fixed enum variables color exception
+- Fixed enum variables color
 - Fixed preprocessor color
 - Fixed punctuation definition color
+
+[2.1.2] - 2021-1-5
+### Fixed
+- Fixed comments color

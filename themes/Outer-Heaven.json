@@ -509,7 +509,8 @@
                 "comment.line",
                 "comment.block",
                 "comment.block.documentation",
-                "punctuation.definition.comment"
+                "punctuation.definition.comment",
+                "string.unquoted.cdata"
             ],
             "settings": {
                 "foreground": "#6d6875"
